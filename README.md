@@ -11,10 +11,10 @@ These custom firmwares contain features not found in original official device fi
 * Full access to AT commands
 * Change IMEI
 * IPv4 Time to Live and IPv6 Hop Limit mangling
-* Autonomous censorship circumvention for Deep Packet Inspection systems
-* DNS over TLS support
-* DNS-level advertisement blocker
-* Extended menu on OLED screen
+* Autonomous censorship circumvention for Deep Packet Inspection systems (with [zapret](https://github.com/Huawei-LTE-routers-mods/zapret))
+* DNS over TLS support (with stubby)
+* DNS-level advertisement blocker (with dnsmasq + [shakal](https://4pda.ru/forum/index.php?s=&showtopic=275091&view=findpost&p=89665467) lists)
+* [Extended menu on OLED screen](https://github.com/Huawei-LTE-routers-mods/huawei_oled_hijack)
 * TUN/TAP support (for OpenVPN and other VPN programs)
 * OpenVPN, curl and other software
 * Entware application repository support
