@@ -33,3 +33,4 @@ The packages are built with:
 Some notes:
 
 * Most repositories contain `build.sh` script which is used to build the package/firmware for Huawei devices.
+* Most software is linked against static libraries if they are small or not used anywhere except this software. For example, `openssl` is built as a dynamic library, `curl` utility links with static `libcurl` and `zlib` and dynamic `openssl`, `stubby` links with dynamic `openssl` and static `getdns` and `libyaml`, etc.
