@@ -21,7 +21,7 @@ These custom firmwares contain features not found in original official device fi
 * EXT4 kernel module and swap support
 * Multilingual web interface with GSM/UMTS/LTE band selection menu
 
-Many features are created by [@ValdikSS](https://github.com/ValdikSS/), while others are done by [rust3028](rust3028), [ilya-fedin](https://github.com/ilya-fedin/), and others.
+Many features are created by [@ValdikSS](https://github.com/ValdikSS/), while others are done by [@rust3028](https://github.com/rust3028/), [@ilya-fedin](https://github.com/ilya-fedin/), and others.
 
 
 The packages are built with:
