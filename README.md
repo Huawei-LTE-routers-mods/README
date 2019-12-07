@@ -29,6 +29,21 @@ The packages are built with:
 * [Android NDK r16b](https://developer.android.com/ndk/downloads/older_releases.html#ndk-16b-downloads), for bionic libc builds
 * [Linaro GCC 4.9.4-2017.01 arm-linux-gnueabi](https://releases.linaro.org/components/toolchain/binaries/4.9-2017.01/arm-linux-gnueabi/), for glibc builds
 
+The following CFLAGS are used:
+
+```
+# Balong Hi6921 V7R11 (E3372h, E5770, E5577, E5573, E8372, E8378, etc) and Hi6930 V7R2 (E3372s, E5373, E5377, E5786, etc)
+# softfp, vfpv3-d16 FPU
+
+CFLAGS="-march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -O2 -s"
+
+
+# Balong Hi6920 V7R1 (E3272, E3276, E5372, etc)
+# soft, novfp
+
+CFLAGS="-march=armv7-a -mfloat-abi=soft -mthumb -O2 -s"
+
+```
 
 Some notes:
 
