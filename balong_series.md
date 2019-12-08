@@ -20,6 +20,7 @@ V7R11 devices run Linux 3.4.5 kernel with Android modifications. ARMv7 cores sup
 | [E5575](https://www.4gltemall.com/huawei-e5575-pocketcube-wifi-modem.html) | Router with wall plug | - | 4 | 2.4 GHz | 1500 mAh | - | - |
 | [E5577](https://www.4gltemall.com/huawei-e5577-4g-lte-cat4-mobile-hotspot.html) | Router | 128×128 OLED | 4 | 2.4/5 GHz | 1500/3000 mAh | + | - |
 | [E5578](https://www.4gltemall.com/huawei-e5578-4g-lte-cat4-mobile-hotspot.html) | Router | 128×64 OLED | 4 | 2.4 GHz | 1900 mAh | - | - |
+| [E5770](https://consumer.huawei.com/en/mobile-broadband/e5770/) | Router | + | 4 | 2.4 GHz | 5200 mAh | - | + |
 | [E5771](https://consumer.huawei.com/en/mobile-broadband/e5771/) | Router | - | 4 | 2.4 GHz | 9600 mAh | - | - |
 | [E8372](https://consumer.huawei.com/en/mobile-broadband/e8372/) | USB Stick | - | 4 | 2.4 GHz | - | + | - |
 | [E8378](https://www.4gltemall.com/webcube4-huawei-e8378-4g-wifi-router.html) | Router with wall plug | - | 4 | 2.4 GHz | - | - | - |
