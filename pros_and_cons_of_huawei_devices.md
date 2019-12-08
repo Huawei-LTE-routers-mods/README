@@ -17,7 +17,7 @@ Cons for general consumers:
 Huawei does not publish firmware files for the devices, and even if you have one, you can't flash it right away anyway: firmware installation process require special flash code which you can obtain from Huawei (but see first paragraph), buy online from websites with access to Huawei mobile operator area, or for older devices, generate it using code generator which was made by reverse engineering kernel code. Firmware files are signed with cryptographic signature.
 
 Huawei also could not care less about Open Souce. The company publish broken source code archives on their website which either do not compile or run on the device, only to mimic GPL compliance. No instructions to run your own compiled source code are provided, that's impossible to do without third-party utilities made by reverse engineering of the bootloader and other system components.
-GPL is blatantly violated: some closed source Huawei utilities are based on widespread utilities, for example `libwl.so` library is based on `iw` utility source code, even `main()` function is still in there.
+GPL is blatantly violated: some closed source Huawei utilities are based on widespread utilities, for example `libwl.so` library in E5770 firmware (21.329.01.00.00) is based on `iwpriv` utility source code, even `main()` function is still in there.
 
 Pros for firmware hackers and power users:
 
