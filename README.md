@@ -26,8 +26,8 @@ Many features are created by [@ValdikSS](https://github.com/ValdikSS/), while ot
 
 The packages are built with:
 
-* [Android NDK r16b](https://developer.android.com/ndk/downloads/older_releases.html#ndk-16b-downloads), for bionic libc builds
-* [Linaro GCC 4.9.4-2017.01 arm-linux-gnueabi](https://releases.linaro.org/components/toolchain/binaries/4.9-2017.01/arm-linux-gnueabi/), for glibc builds
+* [Android NDK r16b](https://developer.android.com/ndk/downloads/older_releases.html#ndk-16b-downloads), for bionic libc builds. API=9 for Balong V7R1, API=19 for V7R11.
+* [Linaro GCC 4.9.4-2017.01 arm-linux-gnueabi](https://releases.linaro.org/components/toolchain/binaries/4.9-2017.01/arm-linux-gnueabi/), for glibc builds. The linker path in compiled binary is patched with `patchelf` to `/system/lib/glibc/ld-linux.so.3`, where `glibc` libraries are stored.
 
 The following CFLAGS are used:
 
