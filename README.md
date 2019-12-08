@@ -42,7 +42,6 @@ CFLAGS="-march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -O2 -s"
 # soft, novfp
 
 CFLAGS="-march=armv7-a -mfloat-abi=soft -mthumb -O2 -s"
-
 ```
 
 Some notes:
