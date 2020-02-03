@@ -17,6 +17,7 @@ Almost everything is in Russian, use automatic translation.
 * [Unpacking and repacking yaffs partitions on Balong V7R1](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=72041932)
 * [Kernel memory modification without /dev/kmem access](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=71881645)
 * [usbloader modification](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=78454912)
+* [How to disable logging on V7R11 to increase flash memory livespan](https://4pda.ru/forum/index.php?s=&showtopic=678549&view=findpost&p=91927345)
 
 ## Useful software:
 
