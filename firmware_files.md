@@ -10,7 +10,7 @@ Here are the links for these archives:
 [combinefile.com](https://combinefile.com/) - lots of free firmware files  
 [trustoff.ru](https://trustoff.ru/) - free firmware files  
 [3ginfo.ru](https://3ginfo.ru/) - free firmware files  
-[marhaba-firmware.com](https://marhaba-firmware.com/) - premium only  
+[androidhost.ru](https://androidhost.ru/)
 [firmwarego.com](https://firmwarego.com/)
 
 Most firmware files (including premium) are re-uploaded to 4pda.ru forums, where you can download them for free. You'll have to register to download files, otherwise Error 404 is shown.  
