@@ -1,4 +1,4 @@
-Huawei Balong is a series of custom System-on-Chip used in all Huawei LTE routers and USB sticks, except for some selected models with Qualcomm Snapdragon targeted for USA market. This is a custom silicon with 3 ARMv7 cores for Linux, VxWorks and M3 Monitor, and ConnX BBE16 DSP for baseband. Several models include additional HiFi audio DSP core for audio communications.
+Huawei Balong is a series of custom System-on-Chip used in all Huawei LTE routers and USB sticks, except for some selected models with Qualcomm Snapdragon targeted for USA market. This is a custom silicon with 2 ARMv7 cores for Linux and VxWorks, 1 Cortex-M3 core for boot-up and M3 Monitor, and ConnX BBE16 DSP for baseband. Several models include additional HiFi audio DSP core for audio communications.
 
 Current generation is **Balong Hi6932 V7R22** (all models are LTE cat. 6).
 These models have **256 MB RAM** (128 MB available for Linux, 80 MB free) and **256 MB NAND**. Routers use **Hi1151 Huawei** or **Broadcom BCM4356** Wi-Fi chipset.
