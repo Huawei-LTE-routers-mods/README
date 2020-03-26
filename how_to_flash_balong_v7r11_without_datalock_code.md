@@ -11,13 +11,13 @@ Open your firmware file in qhuaweiflash, change firmware version of the first fi
 
 The next step is to re-sign the firmware.  
 First, remove the original signature by executing "sign" program with "-r" flag.  
-Second, if your firmware file does not include web interface, sign it like this:
+Second, if your firmware file **does not include web interface**, sign it like this:
 
 `sign -s E5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_r E5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_s private.key public.key -sv 1.3`
 
 Where 5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_r — firmware without the signature (after sign -r), and  E5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_s — output file, ready to be flashed to the device.
 
-If your firmware has a firmware and a web interface, sign it like this:
+If your firmware **has a firmware and a web interface**, sign it like this:
 
 `sign -s E5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_r E5770s_DOWNGRADE_o2_21.318.01.01.1217_to_21.180.99.10.00_signed.fw_s private.key public.key -sv 1.3 -i ISO:WEBUI_17.100.20.03.306_MRE5 WEBUI:WEBUI_17.100.20.03.306_MRE5`
 
