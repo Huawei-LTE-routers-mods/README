@@ -18,6 +18,13 @@ Almost everything is in Russian, use automatic translation.
 * [Kernel memory modification without /dev/kmem access](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=71881645)
 * [usbloader modification](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=78454912)
 * [How to disable logging on V7R11 to increase flash memory livespan](https://4pda.ru/forum/index.php?s=&showtopic=678549&view=findpost&p=91927345)
+* [List of customization codes with digital signature (secuboot)](https://4pda.ru/forum/index.php?s=&showtopic=850369&view=findpost&p=94578681)
+* USB network fix for Balong V7R22 (E5885, E5785) in Linux: [patch for Linux](https://4pda.ru/forum/index.php?s=&showtopic=907081&view=findpost&p=94340926) or for [the device' kernel](https://4pda.ru/forum/index.php?s=&showtopic=907081&view=findpost&p=94476415)
+* [List of NVRAM items](https://github.com/forth32/balong-nvtool/blob/master/nvid.c#L27)
+* [Move SMS storage to RAM](https://4pda.ru/forum/index.php?s=&showtopic=678549&view=findpost&p=92493865)
+* [Balong IPF patch to disable Multicast and Link-Local traffic block and IPv6 Prefix Delegation activation](https://4pda.ru/forum/index.php?s=&showtopic=678549&view=findpost&p=90297458)
+* [Installing ZeroTier VPN client for remote access to E8372](https://4pda.ru/forum/index.php?s=&showtopic=678549&view=findpost&p=80819168)
+
 
 ## Useful software:
 
@@ -27,3 +34,9 @@ Almost everything is in Russian, use automatic translation.
 * [balong-nvtool](https://github.com/forth32/balong-nvtool) — NVRAM images and files editor
 * [balong-fbtools](https://github.com/forth32/balong-fbtools) — fastboot mode flash access software
 * [qhuaweiflash](https://github.com/forth32/qhuaweiflash) — graphical firmware modification and flashing utility
+
+## Useful files
+
+* [Almost every USB loader](https://4pda.ru/forum/index.php?s=&showtopic=744265&view=findpost&p=74622408) ([also check this repo](https://github.com/forth32/balong-usbdload))
+* [usbloader and usblsafe for Balong V7R1 (E5372, E5776s, E392s, E3276, E5375 and others)](https://4pda.ru/forum/index.php?s=&showtopic=618520&view=findpost&p=93358441)
+* [Source code for GPL-licensed software and Linux kernel on Huawei OpenSource website](https://consumer.huawei.com/en/opensource/) (also available [as a list](https://consumer.huawei.com/en/opensource/detail/?siteCode=worldwide&fileType=openSourceSoftware&pageSize=10&curPage=1) + [mirror](ftp://serv.valdikss.org.ru/Downloads/Huawei_Open_Source/))
