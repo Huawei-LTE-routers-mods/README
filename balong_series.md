@@ -27,7 +27,7 @@ V7R11 devices run Linux 3.4.5 kernel with Android modifications. ARMv7 cores sup
 
 _*_ There are different modifications of this router: E5573s, E5573Cs, E5573Bs, which differs in hardware.
 
-**Balong Hi6930 V7R2**, the older generation, brings devices with **128 MB NAND** and **128/256 MB RAM**, which run Linux 3.4.5 with Android modifications, contain **Broadcom 43241 or 4354** Wi-Fi chips. ARMv7 cores support vfpv3d16 floating point operations. These devices are **not getting firmware updates anymore**, and most probably are vulnerable to [KRACK](https://www.krackattacks.com/) and [BroadPWN](https://blog.exodusintel.com/2017/07/26/broadpwn/) vulnerabilities.
+**Balong Hi6930 V7R2**, the older generation, brings devices with **128 MB NAND** and **128/256 MB RAM**, which run Linux 3.4.5 with Android modifications, contain **Broadcom 43241 or 4354** Wi-Fi chips. ARMv7 cores come without floating point support. These devices are **not getting firmware updates anymore**, and most probably are vulnerable to [KRACK](https://www.krackattacks.com/) and [BroadPWN](https://blog.exodusintel.com/2017/07/26/broadpwn/) vulnerabilities.
 
 | Model | Type | Display | LTE cat. | Wi-Fi | Battery | Ext. Antenna | LAN port (RJ45) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
