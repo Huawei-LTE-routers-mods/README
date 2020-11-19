@@ -9,6 +9,7 @@ Almost any efuse/secuboot device could be unlocked. Currently supported, but not
 * e5573Cs Zong 21.328.62.00.1460
 * e5573Cs Zong 21.333.64.00.1460
 * e5573Cs Zong 21.333.64.01.1456
+* e5577s 21.333.63.00.76
 * e8372 Telenor 21.333.63.00.1460
 * e8372 Telma 21.333.64.01.187
 * e8372 Zong 21.333.64.00.1456
