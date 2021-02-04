@@ -13,6 +13,7 @@ Almost any efuse/secuboot device could be unlocked. Currently supported, but not
 * e8372 Telenor 21.333.63.00.1460
 * e8372 Telma 21.333.64.01.187
 * e8372 Zong 21.333.64.00.1456
+* e8372 Zong 21.333.64.01.1456
 
 The unlocking is performed with a special unlocking file which you'll need to upload to the modem/router. To request the file, you'll need to get the response of the following commands:
 
