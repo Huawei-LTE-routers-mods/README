@@ -6,7 +6,7 @@ V7R22 devices run Linux 3.10.59 kernel with Android modifications. ARMv7 cores h
 
 | Model | Type | Display | LTE cat. | Wi-Fi | Battery | Ext. Antenna | LAN port (RJ45) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [E5785](https://consumer.huawei.com/uk/smart-home/e5785l/) | Router | 128×64 OLED | Cat. 6 | 802.11ac 2.4/5 GHz | 3000 mAh, removable | + | + |
+| [E5785](https://consumer.huawei.com/uk/smart-home/e5785l/) | Router | 128×128 OLED | Cat. 6 | 802.11ac 2.4/5 GHz | 3000 mAh, removable | + | - |
 | [E5885](https://consumer.huawei.com/uk/smart-home/e5885/) | Router | 128×64 OLED | Cat. 6 | 802.11ac 2.4/5 GHz | 6400 mAh, non-removable | + | + |
 
 Previous generation is **Balong Hi6921 V7R11** (all models are LTE cat. 4).
