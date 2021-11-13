@@ -71,20 +71,22 @@ V7R1 devices run Linux 2.6.35.7 kernel with Android modifications, and are **not
 # B and H SoHo routers
 | Balong Chip | Router |
 | ----------- | ------ |
-| V7R1 (Hi6920) | E5172 |
-| | E5180
-| | B593s
-| V7R11 (Hi6921) | B310
-| | B315s
+| 5000 (Hi9500) | H112
+| | H122
+| V7R65 (Hi6965) | B625
+| | B818
+| V7R5 (Hi6950) | B612s
+| | B618s
+| | B715s
 | V7R22 (Hi6931) | B316
 | | B525
 | | B528
 | | B529
 | | B535
-| V7R5 (Hi6950) | B612s
-| | B618s
-| | B715s
-| V7R65 (Hi6965) | B625
-| | B818
-| 5000 (Hi9500) | H112
-| | H122
+| V7R11 (Hi6921) | B310
+| | B315s
+| V7R1 (Hi6920) | E5172 |
+| | E5180
+| | B593s
+
+
