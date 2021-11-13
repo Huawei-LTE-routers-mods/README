@@ -56,3 +56,15 @@ V7R1 devices run Linux 2.6.35.7 kernel with Android modifications, and are **not
 *   [E3531 (USB stick)](https://consumer.huawei.com/en/mobile-broadband/e3531/)
 
 *   [E8231 (USB stick)](https://consumer.huawei.com/en/mobile-broadband/e8231/)
+
+# Balong Generations
+
+| Balong Chip Name        | HiSilicon Chip Model |
+| ----------------------- | -------------------- |
+| B5000C10/C11 (5000)     | Hi9500               |
+| V765C30/C31 (V6R65)     | Hi6965               |
+| V722C60/C70 (V7R22)     | Hi6932               |
+| V750C31 (V7R5)          | Hi6950               |
+| V711C30/C60/C70 (V7R11) | Hi6921               |
+| V7R2                    | Hi6930               |
+
