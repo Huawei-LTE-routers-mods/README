@@ -34,6 +34,8 @@ Almost everything is in Russian, use automatic translation.
 * [balong-nvtool](https://github.com/forth32/balong-nvtool) — NVRAM images and files editor
 * [balong-fbtools](https://github.com/forth32/balong-fbtools) — fastboot mode flash access software
 * [qhuaweiflash](https://github.com/forth32/qhuaweiflash) — graphical firmware modification and flashing utility
+* [M3Boot source code](https://github.com/hitechshell/balong-m3boot) - reconstructed source code for m3boot (based on source code for other devices)
+* [U-Boot (WIP)](https://github.com/hitechshell/u-boot-balong) - Experimental U-Boot bootloader for Balong V7R11 (Note: work in progress)
 
 ## Useful files
 
